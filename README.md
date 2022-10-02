@@ -1,2 +1,5 @@
 # deteccao_de_fraudes_em_transacoes_imobiliarias
 Detecção de fraudes em transações imobiliárias
+
+El readme estará pronto logo, por enquanto abra o ficheiro deteccao_de_fraudes_em_transacoes_imobiliárias_DQR.ipynb e deteccao_de_fraudes_em_transacoes_imobiliárias_modelagem.ipynb para entender o projeto.
+Obrigado pela compreensão!
